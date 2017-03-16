@@ -54,7 +54,7 @@ Must Have
 
   regreg 
     regreg is a package to solve convex problems in composite form 
-    using proximal gradient methods (http://github.com/regreg/regreg)
+    using proximal gradient methods (https://github.com/jonathan-taylor/regreg)
 
 Strong Recommendations
 ^^^^^^^^^^^^^^^^^^^^^^
